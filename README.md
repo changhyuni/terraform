@@ -1,2 +1,2 @@
-# terraform in aws 
-create vpc
+# terraform in aws pratice
+
